@@ -1,0 +1,23 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mysqljs": "0.0.2-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlafreniere/personal_project.git"
+  },
+  "author": "Jonathan Lafreniere",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jlafreniere/personal_project/issues"
+  },
+  "homepage": "https://github.com/jlafreniere/personal_project#readme"
+}
